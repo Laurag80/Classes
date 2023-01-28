@@ -1,0 +1,46 @@
+Significance of Testing
+Type of Testing
+Manual VS automation
+Class 1 • Manual Testing
+bugs - tickets - issues - defects
+Where to test
+browser
+mac / windows / linux
+Login functionality
+valid login
+invalid login
+blank login
+Business/client explains the requirement
+PO/BA prepares the document - SRS software requirement specification.
+Application/software
+— AUT - application under test
+— SUT - software under test
+SRS - software requirement specification - covers the scope of application's functionality
+Test plan document - a guide to QA team, what to test etc.
+Test cases - splitting the user story into smaller parts - every part will be your test case
+User story - login/ logout/ shopping/ prime video/ checkout
+user story - login
+Test cases - 1. valid login
+steps :
+i. launch browser and application
+ii. enter username and password
+iii. click login button
+iv. verify homepage
+2. Invalid login
+3. blank login
+3 types of application
+Web - application hosted over the internet browser called website/web application
+Desktop - standalone application - MS word, calculator etc
+Mobile -
+STLC - software testing life cycle
+requirement analysis - to analyze the feasibility of the requirement
+Test planning - test plan document is the output of it
+Test case development - output is test cases developed
+Environment setup - url uniform resource locator https://www.google.com/, dedicated devices,
+you need access
+Test execution - after executing the test cases manually, we collect the results - actual vs
+expected
+Test cycle closure
+Test planning - it gives you the direction and instructions of testing
+Test case development - we write details of carrying out a testing - use user story and split it into
+smaller pieces

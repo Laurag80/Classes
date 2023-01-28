@@ -1,0 +1,21 @@
+4. git remote -v --> check if connection is there
+5. git branch -M main --> will tell later why we use
+6. git push -u origin main (the first time)
+now lets assume u worked on V! and slept by closing your laptop ,
+next day u woke up and u want to work on the same project
+1. open the project and code in it.
+once the version is ready and u need to backup
+2. navigate ur temrinal to right location
+3. git add .
+4. git commit -m "v2"
+and now if u want to push to github
+git push
+-----------------------------------------------
+Note:
+Accidently u connected to a wrong remote repository.
+1. delete the wrong connection   "git remote remove origin"
+2. add a new connection using the command "git remote add origin URL"
+you can
+get the url from the github , goto your repository  clcik on CODE in green
+, make sure https is selected
+and then copy the URL

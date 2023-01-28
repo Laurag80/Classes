@@ -1,0 +1,11 @@
+package com.syntax.class07;
+
+public class ForLoops3 {
+    public static void main(String[] args) {
+
+        for (int i = 0; i <10 ; i++) {
+            System.out.println(i);
+
+        }
+    }
+}
