@@ -1,4 +1,4 @@
-package Homework11;
+package HomeWork11;
 
 public class Food {
      /* Task 4:

@@ -1,4 +1,4 @@
-package Homework11;
+package HomeWork11;
 
 public class Task1OutsideOfPackage {
     public static void main(String[] args) {

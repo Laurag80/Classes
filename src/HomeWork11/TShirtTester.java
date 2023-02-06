@@ -1,4 +1,4 @@
-package Homework11;
+package HomeWork11;
 
 public class TShirtTester {
     public static void main(String[] args) {
