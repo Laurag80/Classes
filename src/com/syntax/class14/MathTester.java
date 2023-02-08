@@ -1,6 +1,8 @@
 package com.syntax.class14;
 
 public class MathTester {
+    public String teacherName;
+
     public static void main(String[] args) {
 
         Math math=new Math();

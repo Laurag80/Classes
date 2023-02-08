@@ -1,6 +1,7 @@
 package com.syntax.class20;
 
 public class Teacher {
+
     public String teacherName;
     public String teacherId;
 
@@ -20,7 +21,6 @@ public class Teacher {
         System.out.println("All students attend the class will get extra point");
     }
 }
-
 class MathTeacher extends Teacher{
     String subject;
     String grade;
@@ -29,7 +29,6 @@ class MathTeacher extends Teacher{
         System.out.println("This class is excellent");
     }
 }
-
 class ChemistryTeacher extends Teacher{
     String homework;
     String test;
@@ -38,7 +37,6 @@ class ChemistryTeacher extends Teacher{
         System.out.println("Chemistry class is fun");
     }
 }
-
 class Pianoteacher extends Teacher{
     String classic;
     String schedule;
@@ -47,3 +45,4 @@ class Pianoteacher extends Teacher{
         System.out.println("This class make students happy");
     }
 }
+

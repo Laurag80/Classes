@@ -8,9 +8,9 @@ public class Verizon {
 
     public static void main(String[] args) {
 
-        UserInfo ui=new UserInfo("Adem", 123456789, "London");
+      /*  UserInfo ui=new UserInfo("Adem", 123456789, "London");
         ui.userDetails();
-
+*/
         //methods in parent class? 0
         //methods from the child class? 1
 
