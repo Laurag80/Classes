@@ -1,4 +1,4 @@
-package com.syntax.Class21;
+package com.syntax.class21;
 
 public class Task2 {
 
