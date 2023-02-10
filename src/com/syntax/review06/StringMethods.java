@@ -1,6 +1,4 @@
-package com.syntax.review6;
-
-import java.util.Locale;
+package com.syntax.review06;
 
 public class StringMethods {
     public static void main(String[] args) {

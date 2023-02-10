@@ -1,4 +1,4 @@
-package com.syntax.review6;
+package com.syntax.review06;
 
 public class Garden {
     void hello(){
