@@ -1,7 +1,7 @@
 package com.syntax.review07;
 public class Car {
 
-    String make, model;
+  protected  String make, model;
     int year, horsePower;
 
     public Car(String make, String model){
@@ -37,7 +37,7 @@ public class Car {
         System.out.println(make+" drive to "+destination+" with speed = "+speed);
     }
 
-    void drive(String destination, int speed){
+    public void drive(String destination, int speed){
         System.out.println(make+" drive to "+destination+" with speed = "+speed);
     }
     //am I overloading
