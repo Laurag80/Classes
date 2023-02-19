@@ -1,6 +1,6 @@
 package ZGroupProject02;
 
-public class Task2Tester {
+public class MarksTester {
     public static void main(String[] args) {
 
          A studentA = new A(70.0, 80.0, 90.0);
